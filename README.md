@@ -1,2 +1,2 @@
 # kino-zona
-# demo ()
+# demo (https://jafarxon.github.io/kino-zona)
